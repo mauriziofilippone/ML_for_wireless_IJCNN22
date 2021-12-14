@@ -37,7 +37,7 @@ Future WiC networks must handle (1) immense growth of the wireless traffic due t
 - Matthias Pätzold, University of Agder, Norway
 
 
-## Short biography for each organizer
+## Short biography of the organizers
 
 **Maurizio Filippone** is Associate Professor in the department of Data Science at EURECOM, Sophia Antipolis, France. Maurizio received a Master's degree in Physics and a Ph.D. in Computer Science from the University of Genova, Italy, in 2004 and 2008, respectively. In 2007, he was a Research Scholar with George Mason University, Fairfax, VA. From 2008 to 2011, he was a Research Associate with the University of Sheffield, (2008-2009), with the University of Glasgow, (2010), and with University College London (2011). Before joining EURECOM in 2015, he was a Lecturer at the University of Glasgow. His research interests include the development of tractable and scalable inference and optimization techniques for machine learning, with a focus on scalable Bayesian inference techniques for Gaussian processes and Deep/Convolutional Neural Networks. Maurizio served as an Associate Editor for the IEEE Transactions on Neural Networks and Learning Systems and Pattern Recognition journals, and he serves as an Area Chair for the AISTATS conference. 
 

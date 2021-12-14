@@ -1,3 +1,5 @@
+## Special Session on Machine Learning for Wireless Communication Systems
+
 ## Call for papers
 
 The aim of this special issue is to bring together researchers working at the intersection between machine learning and wireless communication (WiC) systems.

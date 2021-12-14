@@ -1,6 +1,5 @@
 ## Special Session on Machine Learning for Wireless Communication Systems at IJCNN 2022
 
-## Abstract
 The aim of this special issue is to bring together researchers working at the intersection between machine learning and wireless communication (WiC) systems.
 
 Future generations of WiC networks hold many promises: ever-larger data rates, unprecedented guarantees of ultra-reliable and low-latency wireless links, new Internet of Things (IoT) systems, networks of drones and self-driving cars. To hold up to these promises, the wireless ecosystem is evolving towards an incredibly complex and heterogeneous system which poses many new challenges compared to previous generations. A promising approach to successfully handle such a magnitude of complexity and data volume is to develop new network management and optimization tools based on Machine Learning (ML). However, while ML has made tremendous progress over the last decade, traditional methods for optimization and management of wireless systems cannot scale efficiently to the magnitude of complexity and heterogeneity of future wireless connectivity while providing the quality of service that is expected. These challenges have promoted some preliminary investigations which open to a number of possible developments.

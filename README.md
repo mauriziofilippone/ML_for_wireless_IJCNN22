@@ -1,4 +1,4 @@
-## Special Session on Machine Learning for Wireless Communication Systems at IJCNN 2022
+## Call for papers
 
 The aim of this special issue is to bring together researchers working at the intersection between machine learning and wireless communication (WiC) systems.
 
@@ -12,29 +12,29 @@ Future WiC networks must handle (1) immense growth of the wireless traffic due t
 
 ## Keywords
 
-- machine Learning for Wireless communication systems, 
-- machine learning for 5G advanced and beyond 5G systems, 
-- RF convergence,
-- simultaneous communication and sensing,
-- optimization of sensing, communication and computation, 
-- cross-layer optimization, 
-- heterogeneous networking and service frameworks, 
-- distributed learning in Wireless communication systems, 
-- semantic communication, 
-- explainable AI for communication networks, 
-- edge AI for wireless communication systems, 
-- innovative applications of machine learning models to wireless communication, 
+- machine Learning for Wireless communication systems
+- machine learning for 5G advanced and beyond 5G systems
+- RF convergence
+- simultaneous communication and sensing
+- optimization of sensing, communication and computation 
+- cross-layer optimization
+- heterogeneous networking and service frameworks 
+- distributed learning in Wireless communication systems 
+- semantic communication
+- explainable AI for communication networks 
+- edge AI for wireless communication systems 
+- innovative applications of machine learning models to wireless communication 
 - novel approaches to machine learning tailored to wireless communication
 
 
 ## List of confirmed PC members: 
 
-- Federico Chiariotti, 
-- Marios Kountouris, 
-- Stephan Sigg, 
-- Sameera Palipana, 
-- Stefano Savazzi, 
-- Matthias Pätzold, 
+- Federico Chiariotti, Aalborg University, Denmark
+- Marios Kountouris, EURECOM, France
+- Stephan Sigg, Aalto University, Finland
+- Sameera Palipana, Nokia, Finland
+- Stefano Savazzi, IEIIT Institute at CNR, Italy
+- Matthias Pätzold, University of Agder, Norway
 
 
 ## Short biography for each organizer

@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Call for papers
+
+Special Session on Machine Learning for Wireless Communication Systems at IJCNN 2022
+
+## Call for Papers
 
 You can use the [editor on GitHub](https://github.com/mauriziofilippone/ML_for_wireless_IJCNN22/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
